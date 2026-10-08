@@ -1,0 +1,41 @@
+th {
+    color: indigo;
+    background-color: grey;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.sistemas {
+    background-color: green;
+}
+
+.aplicacionweb {
+    background-color: pink;
+}
+
+.servicios {
+    background-color: orange;
+}
+
+.ingles {
+    background-color: yellowgreen;
+}
+
+.si {
+    background-color: blueviolet;
+}
+
+.ipe {
+    background-color: indianred;
+}
+
+.pi {
+    background-color: lightyellow;
+}
+
+.optativa {
+    background-color: seagreen;
+}
